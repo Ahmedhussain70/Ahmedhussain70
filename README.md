@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋 I'm ahmed hussain</h1>
 
-###
 <br clear="both">
 
 <h2 align="left">About me</h2>
