@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👨‍💻 Programming and Markup Languages</h2>
 
 ###
 
