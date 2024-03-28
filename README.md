@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
@@ -17,6 +19,8 @@
 <p align="left">✨ I’m currently working Web Developer and learning <br>📚 I'm currently learning other programming languages<br>🎯Goals: Learn more technologies - Never stop creating new ideas.<br>🎲 Fun fact: Food and gym🏋️‍♂️ are the reasons to live</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
