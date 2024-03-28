@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Backend Developer</h2>
 
 ###
