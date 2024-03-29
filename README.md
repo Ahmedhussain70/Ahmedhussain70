@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="left">🤖About me</h2>
+<h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;">About me</h2>
 
 ###
 
