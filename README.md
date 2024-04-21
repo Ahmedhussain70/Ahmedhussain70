@@ -16,7 +16,7 @@
 
 ###
 <br>
-<h4 align="left">✨ I’m currently working Web Developer <br><br>📚 I'm currently learning other programming languages<br><br>🎯Goals: Learn more technologies - Never stop creating new ideas.<br><br>🎲 Fun fact: Food and gym🏋️‍♂️ are the reasons to live<br><br>📫 How to reach me midohussain70@gmail.com</h4>
+<h4 align="left">✨ I’m currently working Web Developer <br><br>📚 I'm currently learning new technologies<br><br>🎯Goals: Learn more technologies - Never stop creating new ideas.<br><br>🎲 Fun fact: Food and gym🏋️‍♂️ are the reasons to live<br><br>📫 How to reach me midohussain70@gmail.com</h4>
 
 ###
 
